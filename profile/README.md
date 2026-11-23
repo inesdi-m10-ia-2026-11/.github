@@ -35,8 +35,8 @@ Cada tarde construyo en directo la pieza del día sobre mi proyecto de demostrac
 | **16:30** | Apertura: el "truco del día", 10 minutos. Empieza en punto y no se repite |
 | 16:40 | Demo de la pieza del día sobre Pisos Madrid |
 | 17:05 | Construir: la aplicáis a vuestro proyecto, conmigo pasando por las mesas |
-| 18:00 | Descanso hasta las 18:30 |
-| 18:30 | Seguimos construyendo |
+| 18:30 | Descanso hasta las 19:00 |
+| 19:00 | Seguimos construyendo |
 | 21:00 | Stand-up de proceso: tres personas cuentan qué pidieron a la IA, qué falló y cómo lo arreglaron |
 | **21:15** | Cada uno publica la URL de su avance |
 
